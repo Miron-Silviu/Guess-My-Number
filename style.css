@@ -148,7 +148,8 @@ h1 {
   .title {
     text-align: center;
     font-size: small;
-    margin: 6rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
   }
   .number {
     width: 40%;
