@@ -133,15 +133,17 @@ h1 {
     flex-direction: column-reverse;
     margin: auto;
     padding: 1rem;
+    margin-left: 2rem;
   }
   .message {
     margin-left: 10%;
-    margin-top: 3rem;
+    margin-top: 50%;
     font-size: small;
   }
   .title {
     text-align: center;
     font-size: large;
+    margin-top: 20%;
   }
   .number {
     width: 40%;
