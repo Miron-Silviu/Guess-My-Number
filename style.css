@@ -142,13 +142,13 @@ h1 {
     margin-left: 2rem;
   }
   .message {
-    margin: 2rem;
+    margin-top: 2rem;
     font-size: small;
   }
   .title {
     text-align: center;
     font-size: small;
-    margin: 3rem;
+    margin: 6rem;
   }
   .number {
     width: 40%;
