@@ -122,6 +122,9 @@ h1 {
   display: flex;
 }
 
+::placeholder {
+  font-size: small;
+}
 @media screen and (min-width: 320px) and (max-width: 520px) {
   header {
     margin: 2rem;
