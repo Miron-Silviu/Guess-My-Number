@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Screenshot
 
-![([image.png](image.png))]
+![alt text](image-1.png)
 
 ### Links
 
