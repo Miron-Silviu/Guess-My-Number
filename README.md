@@ -29,7 +29,7 @@ Users should be able to:
   -Can check the project on different types of devices.
 
 # LINK
-[CLICK ME FOR LIVE VIEW] [https://miron-silviu.github.io/Guess-My-Number/]
+[CLICK ME FOR LIVE VIEW](https://miron-silviu.github.io/Guess-My-Number/)
 
 ## Screenshot
 
