@@ -3,14 +3,14 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
+- [The challenge](#the-challenge)
+- [Links](#links)
+- [Screenshot](#screenshot)
 - [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+- [Built with](#built-with)
+- [What I learned](#what-i-learned)
+- [Continued development](#continued-development)
+- [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -28,26 +28,25 @@ Users should be able to:
 - See in the real time the score and highscore.
   -Can check the project on different types of devices.
 
-### Screenshot
+# LINK
+[CLICK ME FOR LIVE VIEW] [https://miron-silviu.github.io/Guess-My-Number/]
+
+## Screenshot
 
 ![alt text](image-1.png)
 
-### Links
-
-Live project here : [https://miron-silviu.github.io/Guess-My-Number/]
-
-## My process
+## My Process
 
 My process building this project start with the already given boilerplate template from the course. In the first instance I start to define new variables in script.js and I implemented a logic to check if score > highscore, after that I implemented another logic to check if guess !== secretNumber, all this logics are stored inside the eventListener for Check button. For the AGAIN button the logic is to reset the game .
 
-### Built with
+## Built With
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
 
-### What I learned
+## What I Learned
 
 I learned how to add click event and also everything from that event goes inside of it .
 
@@ -71,9 +70,9 @@ const displayMessage = function (message) {
 
 \*\*
 
-### Continued development
 
-### Useful resources
+
+## Useful Resources
 
 - [Example resource 1](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648403#overview) - This helped me for building the project.
 
